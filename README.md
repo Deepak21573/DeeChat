@@ -41,7 +41,8 @@ A responsive, real-time chat application built using React, Node.js, Express.js,
 
 ![Screenshot (36)](https://github.com/user-attachments/assets/de9bbedd-0071-4de9-9c9a-8b8b44da41d0)
 
-![Screenshot (39)](https://github.com/user-attachments/assets/4a33e50e-3cbb-4feb-9227-d2f2b362fe84)
+![Screenshot (37)](https://github.com/user-attachments/assets/d074bd8e-95c1-4432-af8f-484a2c230745)
+
 
 
 # **Future Improvements**
