@@ -22,8 +22,36 @@ A responsive, real-time chat application built using React, Node.js, Express.js,
 
 # **Tech Stack**
 
--Frontend: React, React Context API, styled-components, Material-UI
--Backend: Node.js, Express.js
--Database: MongoDB
--Real-Time Communication: Socket.io
+- Frontend: React, React Context API, styled-components, Material-UI
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Real-Time Communication: Socket.io
+
+# **Usage**
+
+1. User Authentication: Users can sign up or log in, with JWT tokens used to authenticate each session.
+2. Real-Time Chat: Start chatting instantly with other users in real-time.
+3. Global State Management: useContext and Context API help manage chat data and user authentication state.
+
+# **APP**
+
+![Screenshot (41)](https://github.com/user-attachments/assets/3ce777c9-95d6-41ab-b057-ec5ea22cebef)
+
+![Screenshot (40)](https://github.com/user-attachments/assets/b095319e-7b65-4573-80c9-2ae92194fd72)
+
+![Screenshot (36)](https://github.com/user-attachments/assets/de9bbedd-0071-4de9-9c9a-8b8b44da41d0)
+
+![Screenshot (39)](https://github.com/user-attachments/assets/4a33e50e-3cbb-4feb-9227-d2f2b362fe84)
+
+
+# **Future Improvements**
+
+1. Group Chat: Enable group chat functionality.
+2. File Sharing: Allow users to share images and files in chat.
+3. Notifications: Add in-app notifications for new messages.
+
+
+
+
+
 
