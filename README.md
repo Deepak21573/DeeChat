@@ -5,10 +5,7 @@ A responsive, real-time chat application built using React, Node.js, Express.js,
 
 1. Features
 2. Tech Stack
-3. Installation
-4. Project Structure
 5. Usage
-6. API Endpoints
 7. Screenshots
 8. Future Improvements
 
