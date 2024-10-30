@@ -1,4 +1,4 @@
-# **DeeChat**
+# **DeeChat - Real-Time Chat Application:**
 A responsive, real-time chat application built using React, Node.js, Express.js, MongoDB, and Socket.io. This app allows users to communicate instantly with each other and provides secure authentication with JWT tokens. Styled components and Material-UI provide a modern and user-friendly interface.
 
 # **Table of Contents**
